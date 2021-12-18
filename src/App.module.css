@@ -1,0 +1,15 @@
+.App{
+    padding: 20px 410px;
+    margin:0 auto;
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+
+    
+}
+.title{
+    text-align: center;
+}
+.App>div{
+    margin: 7px;
+}
